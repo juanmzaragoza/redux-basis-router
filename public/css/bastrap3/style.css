@@ -1,0 +1,10 @@
+
+#aside-home{/* border:1px solid #ddd; */height:510px;}
+
+.clear{height:20px;}
+
+.border-content {
+ border-top: 3px solid #fdd306;
+	border-bottom: 3px solid #fdd306;}
+
+.active-BA{background:#fdd306;}

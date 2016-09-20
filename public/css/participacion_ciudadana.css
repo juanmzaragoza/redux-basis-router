@@ -1,0 +1,6 @@
+.navbar-default .navbar-nav > li > a.active, 
+.navbar-default .navbar-nav > li > a:focus.active, 
+.navbar-default .navbar-nav > li > a:hover.active  {
+	background-color: #c5c3c2;
+    color: #fff;
+}
